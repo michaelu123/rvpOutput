@@ -1,0 +1,63 @@
+<Event id="${eventItemId}">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[${titel}]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[${kurz}]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[${frontendLink}]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <ExpandCategories/>
+    </categories>
+    <pricing>
+        <ExpandPricing/>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>${date}</date>
+            <startTime>${time}</startTime>
+            <duration>${duration}</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="${imageUrl}">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[${copyright}]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="${addressPoi}"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>

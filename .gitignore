@@ -1,0 +1,11 @@
+/.idea/
+**/__pycache__/
+/venv/
+/src/build/
+/src/dist/
+/src/doc-templates/ADFC*
+/src/doc-templates/*sla
+/src/doc-templates/test*
+**/*.log
+**/~*
+**/*.spec

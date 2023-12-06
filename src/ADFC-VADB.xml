@@ -1,0 +1,2603 @@
+<events>
+<Event id="96515ae3-8098-4695-a717-8b88db7ada4d">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Montag Morgen Tour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Jeden Montag findet morgens eine Radtour statt.<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur, Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien, Touren für Jugendliche (15-18 Jahren), Senioren<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87547-montag-morgen-tour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-02-20</date>
+            <startTime>10:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/726db5f2-70fa-4129-8587-64ab593f3d54/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Foto: E. Bodemer]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94378"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="19a84573-8ec6-4b7c-b96c-ea408acbc795">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Tagestour nach Ramelsloh]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Tourenleiter: Wolfgang Henneke<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/84872-tagestour-nach-ramelsloh]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-02-25</date>
+            <startTime>10:00</startTime>
+            <duration>360</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/b3d8143e-b559-4e64-bca8-22cdcbbde881/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Gerhard Westrich]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94381"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="3351c5de-9793-4e24-abe4-7520ef8d75ac">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Montag Morgen Tour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Jeden Montag findet morgens eine Radtour statt.<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur, Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien, Touren für Jugendliche (15-18 Jahren), Senioren<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87548-montag-morgen-tour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-02-27</date>
+            <startTime>10:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/726db5f2-70fa-4129-8587-64ab593f3d54/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Foto: E. Bodemer]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94378"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="bf9c4faf-2f92-4f3e-9615-5a226a78928a">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Riding in the Wind and Eating the Stint]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Stint Tour von Finkenwerder nach Cranz mit Schlenker und zurück. Verbindliche Anmeldung erforderlich<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/82413-riding-in-the-wind-and-eating-the-stint]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-05</date>
+            <startTime>10:00</startTime>
+            <duration>300</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/11a7e668-934b-4323-ac35-0d58a291e511/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Foto: Bernd Everding]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="68729"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="15a71f47-8661-4c08-a0e9-ebe3b510b56d">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Montag Morgen Tour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Jeden Montag findet morgens eine Radtour statt.<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur, Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien, Touren für Jugendliche (15-18 Jahren), Senioren<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/89358-montag-morgen-tour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-06</date>
+            <startTime>10:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/726db5f2-70fa-4129-8587-64ab593f3d54/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Foto: E. Bodemer]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94378"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="bb5bf8f5-5c8c-474d-851d-a56e373350bd">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Tagestour nach Salzhausen]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Tourenleiter: Günther Jungclaus<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/84873-tagestour-nach-salzhausen]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-08</date>
+            <startTime>10:00</startTime>
+            <duration>360</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/b3d8143e-b559-4e64-bca8-22cdcbbde881/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Gerhard Westrich]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94381"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="da5b8923-8557-494b-8e3b-a0be8e903254">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Dorf Café Seestermühe]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Zum Dorf Cafe Seestermühe, auf dem Ochsenweg bis Uetersen und dann Richtung Seester<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur<br>Weitere Eigenschaften: Einkehr in Restauration<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91336-dorf-cafe-seestermuhe]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-12</date>
+            <startTime>11:00</startTime>
+            <duration>420</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/4d60eb67-cb24-42d0-9da4-9a70ab115876/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Dirk Deckbar]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="29517"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="a11de65e-f9d1-4554-90b7-e80e43f48a61">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Kleine Flughafenrunde]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Tour durch das Niendorfer Gehege und um den Flughafen Fuhlsbüttel. Tourende U-Lattenkamp<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/86934-kleine-flughafenrunde]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-12</date>
+            <startTime>11:30</startTime>
+            <duration>300</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/dc20079d-10d2-4da8-9cdb-8fa758f5ffce/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Rolf Marzock]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="2554"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="0e295f0b-9cba-4356-a68f-d403ea6dc9f3">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Mountainbike-Einsteigertour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>MTB-/Gravelbike Tour für Einsteiger:
+Start in Wedel (S-Bahnhof) – Rissen – Wittenbergen – Tafelberg –
+Bismarckstein – Iserbrook – Runde durch den Klövensteen und wieder
+zurück.<br>Kategorie: Halbtagestour<br>Geeignet für: Mountainbike<br>Besondere Charakteristik/Thema: Natur<br>Besondere Zielgruppe: Touren für Jugendliche (15-18 Jahren)<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91360-mountainbikeeinsteigertour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-18</date>
+            <startTime>10:00</startTime>
+            <duration>180</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/680c933e-1c10-452b-bf5e-94ec32982e71/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | lehmkuehler-fotografie.de]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="29517"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="65f3eefc-2404-4d45-9e2d-e1f820ed54d6">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Henstedt-Ulzburg entdecken1]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Wir entdecken versteckte Wege um dem Autoverkehr zu entkommen..
+Viele Wege verbinden unsere Ortsteile einige davon sind sehr direkt andere sind etwas verschlungen<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Zielgruppe: Familien<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91671-henstedtulzburg-entdecken1]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-19</date>
+            <startTime>14:00</startTime>
+            <duration>270</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/eeefba67-2f2e-436e-9bed-1db141907e57/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[JDaberkow]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="66ff8e01-8a81-4a39-a84d-7a038133e52f">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Tagestour zur Bunthäuser Spitze]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Tourenleiter: Klaus Feinen<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/84874-tagestour-zur-bunthauser-spitze]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-25</date>
+            <startTime>10:00</startTime>
+            <duration>360</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/b3d8143e-b559-4e64-bca8-22cdcbbde881/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Gerhard Westrich]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94381"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="baafaea5-ee7b-4112-b17a-e4ea438c0de7">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Wir trainieren die Wade und fahren nach Stade]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Über Buxtehude, Nottensdorf, Bliedersdorf, Horneburg und Agathenburg gehts nach Stade (50 km). Nach einer Stärkung fahren wir dann an der Elbe zurück.<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: mittel</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/86876-wir-trainieren-die-wade-und-fahren-nach-stade]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-26</date>
+            <startTime>10:00</startTime>
+            <duration>420</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/3c319434-1989-499f-8c44-9bb3936c607b/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Foto: Markus Roosenboom]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="68729"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="86098740-ad36-4a8d-8957-3c00d52f010e">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Auf zum Frühlingsmarkt Langes Tannen in Uetersen]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Gemütliche Ausfahrt zum Frühlingsmarkt bei Langes Café in Uetersen.<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Kultur<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91364-auf-zum-fruhlingsmarkt-langes-tannen-in-uetersen]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-26</date>
+            <startTime>11:00</startTime>
+            <duration>300</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/1a787c0e-bdf0-4fdb-8e4c-0dbd4f9c03f4/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Klaus Wörle]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="29517"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="b187d1fc-bac9-4aea-b823-74471f6f5066">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Montag Morgen Tour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Jeden Montag findet morgens eine Radtour statt.<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur, Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien, Touren für Jugendliche (15-18 Jahren), Senioren<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/90785-montag-morgen-tour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-27</date>
+            <startTime>10:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/f140849e-616b-4a1e-b6da-e79f7737e3ac/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[E.Bodemer]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94378"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="a50d83f6-a5d5-457f-8d4d-7f8480495314">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Rennrad für Einsteiger in Vierlanden]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Ich biete meine Rennraderfahrung an. Altersbedingt werde ich leider langsamer; deshalb raden wir ein moderates Tempo zwischen 25-30Km/h; ergibt in etwa einen Schnitt um 25Km/h.<br>Kategorie: Feierabendtour<br>Geeignet für: Rennrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/92525-rennrad-fur-einsteiger-in-vierlanden]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-03-31</date>
+            <startTime>18:45</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/f245b0a5-3d07-4a2e-a908-90ce89127eb4/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Rainer Marien]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="cb94a10f-5888-4dcd-897d-2899b975f538">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Grüner Ring Teil 1]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Wir fahren an der Elbe bis Teufelsbrück und steigen dort in den grünen Ring ein<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur<br>Weitere Eigenschaften: Picknick (Selbstverpflegung)<br>Schwierigkeitsgrad: mittel</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91365-gruner-ring-teil-1]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-02</date>
+            <startTime>10:00</startTime>
+            <duration>420</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/b3d8143e-b559-4e64-bca8-22cdcbbde881/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Gerhard Westrich]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="29517"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="c4c16854-2ebc-4f3c-9260-4fadfd28c382">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Dreimal über die Elbe]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Schnelle Runde über Norder- und Süderelbe nach Hoopte, mit der Fähre zum Zollenspieker und über den Marschbahndamm zurück in die City.<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Weitere Eigenschaften: Zusatzkosten ( z.B. Eintritte, Fährtickets), Einkehr in Restauration<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/70089-dreimal-uber-die-elbe]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-02</date>
+            <startTime>11:00</startTime>
+            <duration>330</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/cb576fed-eef0-467a-bd4a-d76cb67f1b6b/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Rolf Marzock]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="2685"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="3cab57b2-f205-4e29-af82-42e1e4de45a9">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Kurze Feierabendtour in der näheren Umgebung von Buchholz. Von leicht bis anspruchsvoll, ca. 20-35 km je nach Wetter und Sonnenuntergang.
+Beginn: 19:00<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87415-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-05</date>
+            <startTime>19:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/885efbfb-c149-44a3-8e4f-144876ca0890/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC|OG Buchholz]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70602"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="713ea631-2ca0-49a7-bc7b-c7048926f2df">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Kurze Feierabendtour in der näheren Umgebung von Buchholz. Von leicht bis anspruchsvoll, ca. 20-35 km je nach Wetter und Sonnenuntergang.
+Beginn: 19:00<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87416-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-12</date>
+            <startTime>19:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/885efbfb-c149-44a3-8e4f-144876ca0890/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC|OG Buchholz]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70602"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="357b7eb1-b27d-4e96-a8a2-395828fbd354">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Rennradtour in Vierlanden für Einsteiger]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Wir radekln locker zwischen 25-30km/h, Schnitt ca.25Km/h, ca. 45Km. Besprechungspause in Zollenspieker<br>Kategorie: Feierabendtour<br>Geeignet für: Rennrad<br>Schwierigkeitsgrad: mittel</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/92526-rennradtour-in-vierlanden-fur-einsteiger]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-14</date>
+            <startTime>18:45</startTime>
+            <duration>180</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/cb5b9be9-0f65-4a4e-be5a-20676efce679/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Rainer Marien]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="bccff74d-c036-444e-aab6-73c2495f9c17">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Fischbeker Heide]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Die Fischbeker Heide:
+Teufelsbrück – Fähre zum Rüschpark – Finkenwerder, Altenwerder in die
+Wildnis der Fischbeker Heide mit ausgedehnten Strecken. Imbiss
+Noordelk Pommes oder selbst Mitgebrachtes.<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur, Stadt entdecken / erleben<br>Weitere Eigenschaften: Zusatzkosten ( z.B. Eintritte, Fährtickets)<br>Besondere Zielgruppe: Familien, Senioren, Touren für Jugendliche (15-18 Jahren)<br>Schwierigkeitsgrad: mittel</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91366-fischbeker-heide]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-15</date>
+            <startTime>10:00</startTime>
+            <duration>300</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/680c933e-1c10-452b-bf5e-94ec32982e71/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | lehmkuehler-fotografie.de]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="29517"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="3c24f684-e1f5-464c-be27-f912b7eb4360">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Teufelsrunde]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Von Teufelsbrück geht es durch den Jenisch- und den Volkspark an die Kollau, der wir gen Norden folgen. Wir freuen uns auf die Wulfsmühle und fahren dann über Pinneberg in den Klövensteen.<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: mittel</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/86884-teufelsrunde]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-16</date>
+            <startTime>10:00</startTime>
+            <duration>420</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/fad70b5e-d98c-4b48-a1e2-36756bee5d54/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Foto: Jürgen Griebel]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="376"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="b356f51b-3168-46c8-8bfe-f6fb3fa2ff80">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Rund um Kaltenkirchen]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Wer kennt das nicht? Immer die gleiche Runde. Mit uns nicht ,wir fahren über Nebenwege nach Kaltenkirchen
+Nach einem Picknick am See fahren wir die Runde gemütlich zurück nach Henstedt-Ulzburg<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91724-rund-um-kaltenkirchen]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-16</date>
+            <startTime>14:00</startTime>
+            <duration>210</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/8058ef60-0519-4035-a302-60de8799e0ea/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Jdaberkow]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="6f2bf641-9680-4932-b2e9-8d045374181a">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Feierabendtour quer durch die Samtgemeinde.<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87123-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-19</date>
+            <startTime>18:30</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/7c0f6483-518d-489c-ab5c-f3dd4d52e436/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Karl-Heinz Stöver]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70645"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="efcbf1be-1138-480e-a170-a9c98c235cd7">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Kurze Feierabendtour in der näheren Umgebung von Buchholz. Von leicht bis anspruchsvoll, ca. 20-35 km je nach Wetter und Sonnenuntergang.
+Beginn: 19:00<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87417-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-19</date>
+            <startTime>19:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/885efbfb-c149-44a3-8e4f-144876ca0890/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC|OG Buchholz]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70602"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="e8962c35-5a86-4331-8f88-5f248ec6a4d9">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Unterschiedliche Rundtouren um Soltau. Die Touren finden auch bei schlechtem Wetter statt. Getränke und Regenbekleidung bitte mitbringen.<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/89434-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-20</date>
+            <startTime>18:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/38c304a2-f452-4dcf-9d1d-443f0ef20089/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC Heidekreis]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="7884ca5b-84bc-4aeb-b58f-d4caec2eb383">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Von Soltau in Richtung Wietzendorf]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Diese Tour führt durch die vielfältige Landschaft auf überwiegend verkehrsarmen Straßen und Wegen in Richtung Wietzendorf. Eine Einkehr ist vorgesehen.<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur<br>Weitere Eigenschaften: Einkehr in Restauration<br>Besondere Zielgruppe: Familien, Senioren<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/89053-von-soltau-in-richtung-wietzendorf]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-23</date>
+            <startTime>10:00</startTime>
+            <duration>420</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/43f6ccb3-9f96-497b-8e06-5239aa8718e2/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Dirk Deckbar]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="cc0d349d-3b1e-4c9b-bd34-368bb1388627">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Kurze Feierabendtour in der näheren Umgebung von Buchholz. Von leicht bis anspruchsvoll, ca. 20-35 km je nach Wetter und Sonnenuntergang.
+Beginn: 19:00<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87418-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-26</date>
+            <startTime>19:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/885efbfb-c149-44a3-8e4f-144876ca0890/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC|OG Buchholz]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70602"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="366cbc94-b287-4f53-b0a3-0df59f1b96c7">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Radtour für Alle]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Der Name ist Programm ob klein oder groß .mit Handicap oder ohne diese Fahrradtour durch die Gemeinde Henstedt-Ulzburg setzt Zeichen für ein gemeinsames Radfahren<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien, Menschen mit Behinderungen, Touren für Kinder (bis 14 Jahren)<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87680-radtour-fur-alle]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-04-29</date>
+            <startTime>13:30</startTime>
+            <duration>240</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/97ab4829-d9cb-4923-a5fd-e85d29884c2d/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Fenja Simon]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="ffa51880-8c48-421f-b9e9-fb3a8c01e2b9">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Kurze Feierabendtour in der näheren Umgebung von Buchholz. Von leicht bis anspruchsvoll, ca. 20-35 km je nach Wetter und Sonnenuntergang.
+Beginn: 19:00<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87419-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-03</date>
+            <startTime>19:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/885efbfb-c149-44a3-8e4f-144876ca0890/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC|OG Buchholz]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70602"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="f59564b2-f974-44b5-ae0c-547cd8ba933e">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Unterschiedliche Rundtouren um Soltau. Die Touren finden auch bei schlechtem Wetter statt. Getränke und Regenbekleidung bitte mitbringen.<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/89654-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-04</date>
+            <startTime>18:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/38c304a2-f452-4dcf-9d1d-443f0ef20089/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC Heidekreis]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="d15b1672-8069-4d9b-9fa8-265bf10915a7">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Cuxhaven mit Rückenwind]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Anmeldung erforderlich - Wir fahren auf dem Elberadweg je nach Windrichtung von Teufelsbrück nach Cuxhaven oder umgekehrt.<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Weitere Eigenschaften: Bahnfahrt, Zusatzkosten ( z.B. Eintritte, Fährtickets), Picknick (Selbstverpflegung), Einkehr in Restauration<br>Schwierigkeitsgrad: mittel</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87408-cuxhaven-mit-ruckenwind]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-06</date>
+            <startTime>10:00</startTime>
+            <duration>540</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/c90380c8-aff2-425e-9e44-25d53d4c60d4/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Foto: Bernd Everding]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="376"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="edd902f6-2dac-49fb-a5b9-33d78d69e74d">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Fahrrad sucht Fisch]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Fischmarkttour:
+S-Bahn Wedel – Schnalles Hafen – Elb-Radwanderweg – Övelgönne -
+Fischmarkt<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien, Senioren, Menschen mit Behinderungen<br>Schwierigkeitsgrad: sehr einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91368-fahrrad-sucht-fisch]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-07</date>
+            <startTime>05:00</startTime>
+            <duration>90</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/447da613-99b1-4657-b90e-3fc880524353/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | lehmkuehler-fotografie.de]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="29517"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="9051dd8e-3964-46a7-b30e-7dabff3c6ba6">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Botanischer Garten]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Der Botanische Garten oder auch Loki Schmidt Garten genannt.<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur<br>Weitere Eigenschaften: Einkehr in Restauration<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91370-botanischer-garten]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-07</date>
+            <startTime>11:00</startTime>
+            <duration>360</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/e2125013-ccc9-4339-a70f-37019b54e9c4/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC | Gerhard Westrich]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="29517"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="4ebdb49d-0184-4c87-846a-0f5e1559b4cb">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Kurze Feierabendtour in der näheren Umgebung von Buchholz. Von leicht bis anspruchsvoll, ca. 20-35 km je nach Wetter und Sonnenuntergang.
+Beginn: 19:00<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87420-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-10</date>
+            <startTime>19:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/885efbfb-c149-44a3-8e4f-144876ca0890/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC|OG Buchholz]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70602"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="53aad3c8-58e9-4673-8d8f-de484e8e1290">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Zur Apfelblüte durchs Alte Land nach Buxtehude]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Wir fahren u.a. über die Obstroute nach Buxtehude und besichtigen die historische Altstadt Buxtehudes. Auf der Rückfahrt fahren wir entlang an Apfelplantagen zurück zur Fähre.<br>Kategorie: Tagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Stadt entdecken / erleben, Kultur, Natur<br>Weitere Eigenschaften: Zusatzkosten ( z.B. Eintritte, Fährtickets), Picknick (Selbstverpflegung)<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91371-zur-apfelblute-durchs-alte-land-nach-buxtehude]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-13</date>
+            <startTime>10:25</startTime>
+            <duration>485</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/99d41ae2-7c1a-4906-95b8-0b2a086305b4/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC Wedel]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="98937"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="69fe423a-a637-4bc5-8a36-8e5fc8b6416e">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Zum Mahltag an der Holmer Mühle]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Jeden 2. Samstag im Monat wird in der historischen Wassermühle in Holm Getreide gemahlen. Die alte Technik kann in Aktion erlebt werden und es wird Bio-Brot sowie ein Müllerfrühstück angeboten.<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Kultur<br>Weitere Eigenschaften: Einkehr in Restauration<br>Besondere Zielgruppe: Familien<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87515-zum-mahltag-an-der-holmer-muhle]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-13</date>
+            <startTime>11:00</startTime>
+            <duration>180</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/c88f2c98-515f-47fb-bce1-bb6ea36f2af7/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Maximilian Recht]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="94311"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="a53435de-a7c1-48c9-912b-8495d6600958">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Es Brennt?  Feuerwehrmuseum Norderstedt]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Informative Radtour in da feine kleine Museum im nahen Norderstedt<br>Kategorie: Halbtagestour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Stadt entdecken / erleben<br>Besondere Zielgruppe: Familien, Senioren, Touren für Kinder (bis 14 Jahren), Touren für Jugendliche (15-18 Jahren)<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/91725-es-brennt-feuerwehrmuseum-norderstedt]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+        <fromPrice>€5.0</fromPrice>
+        <toPrice>€5.0</toPrice>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-17</date>
+            <startTime>14:00</startTime>
+            <duration>300</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/533f664a-fb2a-4845-aa25-c8e52d95e276/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[jdaberkow]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="dfceca17-9d38-4c99-a747-4d85ceb98dd2">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Kurze Feierabendtour in der näheren Umgebung von Buchholz. Von leicht bis anspruchsvoll, ca. 20-35 km je nach Wetter und Sonnenuntergang.
+Beginn: 19:00<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87421-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-17</date>
+            <startTime>19:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/885efbfb-c149-44a3-8e4f-144876ca0890/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC|OG Buchholz]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70602"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="89a2a0dd-fff3-46f5-850a-7643f79f2d7c">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Feierabendtour quer durch die Samtgemeinde.<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Besondere Charakteristik/Thema: Natur<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/87121-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-17</date>
+            <startTime>19:00</startTime>
+            <duration>90</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/7c0f6483-518d-489c-ab5c-f3dd4d52e436/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[Karl-Heinz Stöver]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="70645"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+<Event id="90587764-6d1e-4300-bcb2-ebd516f4ec0b">
+    <languages>
+        <Language id="1"/>
+    </languages>
+    <title>
+        <I18n>
+            <de>
+                <![CDATA[Feierabendtour]]>
+            </de>
+        </I18n>
+    </title>
+    <shortDescription>
+        <I18n>
+            <de>
+                <![CDATA[<p>Unterschiedliche Rundtouren um Soltau. Die Touren finden auch bei schlechtem Wetter statt. Getränke und Regenbekleidung bitte mitbringen.<br>Kategorie: Feierabendtour<br>Geeignet für: Tourenrad<br>Schwierigkeitsgrad: einfach</p>]]>
+            </de>
+        </I18n>
+    </shortDescription>
+    <link>
+        <I18n>
+            <de>
+                <![CDATA[https://touren-termine.adfc.de/radveranstaltung/89655-feierabendtour]]>
+            </de>
+        </I18n>
+    </link>
+    <categories>
+        <Category id="36"/>
+    </categories>
+    <pricing>
+           <freeOfCharge>true</freeOfCharge>
+    </pricing>
+    <eventDates>
+        <SpecificEventDate>
+            <date>2023-05-18</date>
+            <startTime>18:00</startTime>
+            <duration>120</duration>
+        </SpecificEventDate>
+    </eventDates>
+    <media>
+        <EventImage>
+            <pooledMedium>
+                <PooledEventMedium url="https://intern-touren-termine.adfc.de/api/images/38c304a2-f452-4dcf-9d1d-443f0ef20089/download">
+                    <copyright>
+                        <I18n>
+                            <de>
+                                <![CDATA[ADFC Heidekreis]]>
+                            </de>
+                        </I18n>
+                    </copyright>
+                </PooledEventMedium>
+            </pooledMedium>
+            <imageType>
+                <ImageType id="1"/>
+            </imageType>
+        </EventImage>
+    </media>
+    <location>
+        <AddressPoi id="None"/>
+    </location>
+    <contributor>
+        <AddressPoi id="6137"/>
+    </contributor>
+</Event>
+</events>

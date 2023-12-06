@@ -1,0 +1,169 @@
+{
+  "comment_pagesettings": {
+    "orientation": "portrait oder landscape",
+    "format": "a3, a4, a5, letter, legal",
+    "top, left, right, bottommargin": "die Seitenränder in mm",
+    "linespacing": "Zwischenraum zwischen Zeilen in mm",
+    "linktype": "frontend, backend oder keine",
+    "ausgabedatei": "Name der Ausgabedatei, wird sonst aus dem Namen der template-Datei abgeleitet"
+  },
+  "pagesettings": {
+    "orientation": "portrait",
+    "format": "A4",
+    "topmargin": 20,
+    "leftmargin": 30,
+    "rightmargin": 20,
+    "bottommargin": 20,
+    "linespacing": 1.5
+  },
+  "comment_fonts": {
+    "preinstalled fonts": "helvetica[,B,BI,I], symbol, times[,B,BI,I], dingbats, all without €!",
+    "underlined fonts": "gibt es nicht, Striche werden vom Programm erzeugt",
+    "unicode fonts": "müssen explizit installiert werden, siehe unten den 'fonts'-Abschnitt",
+    "arialuc": "Arial Unicode, wird mit dem Programm mitgeliefert",
+    "family": "der Name, der im 'styles'-Abschnitt als 'font' benutzt wird,z.B. arial, courier, times",
+    "style": "leer für 'regulären' font, B für fetten(bold), I für kursiven(italic), BI für fett und kursiv, U unbenutzt!",
+    "file": "Pfad zur font-Datei (c:/.../irgendwas.ttf)",
+    "unicode": "true oder false, wenn false, können Sie auch die vorinstallierten fonts (s.o.) benutzen"
+  },
+  "fonts": [],
+  "comment_styles": {
+    "style": "B(old),U(nderline), I(talic), oder eine Kombination, z.B. BI, wenn fehlend oder leer, dann 'regulärer' font",
+    "size": "Fontgröße in points",
+    "type": "text, image oder link, wenn fehlend, dann text",
+    "color": "r,g,b values von 0 bis 255",
+    "dimen": "Größe breitexhöhe, in der das Bild gezeigt wird,  z.B. 60x30",
+    "body": "dieser Stil wird genommen, wenn nichts anderes bestimmt wird"
+  },
+  "styles": [
+    {
+      "name": "body",
+      "font": "arialuc",
+      "size": 10
+    },
+    {
+      "name": "Header1",
+      "font": "arialuc",
+      "style": "B",
+      "size": 25,
+      "comment": "ADFC blue",
+      "color": "15,74,124"
+    },
+    {
+      "name": "Header2",
+      "font": "arialuc",
+      "style": "B",
+      "size": 16
+    },
+    {
+      "name": "Header3",
+      "font": "arialuc",
+      "size": 14
+    },
+    {
+      "name": "Header4",
+      "font": "arialuc",
+      "style": "B",
+      "size": 14
+    },
+    {
+      "name": "Small",
+      "font": "ArialUC",
+      "size": 10
+    },
+    {
+      "name": "Tourtitel",
+      "font": "arialuc",
+      "size": 10,
+      "comment": "ADFC yellow",
+      "color": "238,126,13"
+    },
+    {
+      "name": "Link_yellow",
+      "type": "link",
+      "font": "arialuc",
+      "style": "",
+      "size": 10,
+      "comment": "ADFC yellow",
+      "color": "238,126,13"
+    },
+    {
+      "name": "Link_blue",
+      "type": "link",
+      "font": "arialuc",
+      "style": "",
+      "size": 10,
+      "comment": "blue",
+      "color": "2,2,255"
+    },
+    {
+      "name": "Logo",
+      "type": "image",
+      "dimen": "60x30"
+    }
+  ],
+  "header": {
+    "comment": "noch nicht implementiert"
+  },
+  "footer": {
+    "comment": "noch nicht implementiert"
+  },
+  "comment_selection": {
+    "includesub": "wenn true, durchsuche Gliederung und ihre Untergliederungen",
+    "gliederung": "Liste von Gliederungsnummern, durch Komma getrennt",
+    "start, end": "suche Touren und Termine innerhalb dieser Zeit (einschließlich des Ende-Datums)",
+    "titelenthält": "Tour/Termin wird ausgewählt, wenn der Titel einen dieser Werte enthält",
+    "titelenthältnicht": "Tour/Termin wird ausgewählt, wenn der Titel keinen dieser Werte enthält",
+    "radtyp": "Alles, Tourenrad, Rennrad, oder Mountainbike",
+    "tournr": "Tour/Termin wird ausgewählt, wenn die Nummer in der Liste vorkommt",
+    "nichttournr": "Tour/Termin wird ausgewählt, wenn die Nummer nicht in der Liste vorkommt",
+    "kategorie für Radtouren": "Tagestour, Halbtagestour, Feierabendtour, Mehrtagestour",
+    "kategorie für Termine": "Stammtisch, Öffentliche Arbeitsgruppe, Aktiventreff",
+    "Ergebnis der Selektion": "Die Bedingungen in der Selektion sind mit UND verknüpft, die Werte in der Liste mit ODER",
+    "Keine Bedingung angegeben": "Selektion ist erfüllt",
+    "Fehlende Werte": "werden ggfs. aus der UI übernommen"
+  },
+  "selection": {
+    "gliederung": "152",
+    "includesub": true,
+    "start": "01.07.2018",
+    "end": "31.12.2018",
+    "terminselection": [
+      {
+        "name": "Alles"
+      }
+    ],
+    "tourselection": [
+      {
+        "name": "Alles"
+      }
+    ]
+  },
+  "text": [
+    "/Header1 Touren und Termine /right /Logo ADFC_MUENCHEN.PNG",
+    "",
+    "/right /Small ${heute}.fmt(%d. %B %Y)",
+    "/Header2 Veranstaltungen des ADFC Bayern im zweiten Halbjahr 2018",
+    "",
+    "/Header4 Touren:",
+    "/template /tour /selection=Alles",
+    "/Tourtitel ${titel} /body  (Tournummer ${nummer})",
+    "/comment %A, %d. %B, %H:%M Uhr -> Montag, 6. August, 16:00 Uhr",
+    "/bold Datum: /body ${start}.fmt(%A, %d. %B, %H:%M) Uhr, /bold Kategorie: /body ${kategorie}, /bold Schwierigkeit: /body ${schwierigkeit}, /bold Strecke: /body ${tourlänge}",
+    "${abfahrten}",
+    "${beschreibung}",
+    "${zusatzinfo}",
+    "${tourleiter}",
+    "/endtemplate",
+    "",
+    "",
+    "/Header4 Termine:",
+    "/template /termin /selection=Alles",
+    "/comment %A, %d. %B -> Montag, 6. August",
+    "/bold ${start}.fmt(%A, %d. %B) /body ${start}.fmt(%H:%M)-${end}.fmt(%H:%M) - /Tourtitel ${titel} /body (Nummer ${nummer})",
+    "/bold Kategorie: /body ${kategorie}, /bold Ort: /body ${city}, ${street}",
+    "${beschreibung}",
+    "${betreuer}",
+    "/endtemplate"
+  ]
+}

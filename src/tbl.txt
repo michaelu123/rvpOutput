@@ -1,0 +1,45 @@
+Unbekannte Schlösser im Norden,08. 04.2023,Manfred Plöckl,Wolfgang Becker,65 km,mittel
+Ostern zu den Osterseen,10. 04.2023,Michael Schmidt,Heinrich Heinrich Kolster,60 km,mittel
+Kranzberger See,21. 04.2023,Piter Waterstradt,Paul-Helmut Schäfer,75 km,mittel
+MTB: Leichte Tour für Einsteiger im Münchner Süden,29. 04.2023,Michael Annetzberger,Klaus Petri,50 km,mittel
+Bad Tölz und Reichersbeuern,30. 04.2023,Michael Schmidt,Thomas Hülsmann,70 km,mittel
+Kochelsee,01. 05.2023,Anton Scheppach,Klaus Petri,80 km,mittel
+Gemütliche Sonntagsrunde,07. 05.2023,Ernst Lürken,Anton Scheppach,40 km,einfach
+MTB: Mangfall mit Taubenberg,13. 05.2023,Christoph Chruse,Michael Annetzberger,50 km,mittel
+10 Highlights im Perlacher und Grünwalder Forst,14. 05.2023,Burkhard Händel,Lothar Röth,47 km,einfach
+Lainbachtal bei Benediktbeuern,14. 05.2023,Michael Schmidt,Ursula Hagedorn,80 km,schwer
+Attenloher Filz,20. 05.2023,Anton Scheppach,Amedeo Tortora,65 km,mittel
+Zwischen Starnberger See und Ammersee,28. 05.2023,Michael Schmidt,Ursula Hagedorn,65 km,mittel
+MTB: Um die Rotwand - Elendgraben Spitzingsee,03. 06.2023,Christoph Chruse,Michael Annetzberger,48 km,mittel
+Kuchenschlacht revised,03. 06.2023,Petra Meerwald,Inge Heß,60 km,mittel
+Gemütliche Sonntagsrunde,04. 06.2023,Thorsten Botschen,Heinrich Heinrich Kolster,40 km,einfach
+Stadtrunde durch die nördlichen Stadtteile,09. 06.2023,Richard Roth,Lothar Röth,30 km,einfach
+Walchensee light,11. 06.2023,Frank von Zehmen,Michael Schmidt,110 km,schwer
+MTB: Allgäu/Vorarlberg,17. 06.2023,Thomas Nies,Manfred Plöckl,70 km,schwer
+Der Welt.Erlebnis.Wald - ferne Wälder ganz nah,18. 06.2023,Burkhard Händel,?,80 km,mittel
+Gemütliche Sonntagsrunde,18. 06.2023,Lothar Röth,Richard Roth,40 km,einfach
+Stadtrunde Durch die südlichen Stadtteile,23. 06.2023,Richard Roth,Lothar Röth,30 km,einfach
+Tour zum Deutschen Wetterdienst Start München,23. 06.2023,Klaus Petri,Thomas Treyer,40 km,einfach
+Rund um den Starnberger See,25. 06.2023,Burkhard Händel,Klaus Petri,50 km,mittel
+
+
+Rennrad Kloster Reutberg von Thalkirchen aus,15. 04.2023,Vera Geis,Bernhard Eller,120 km,sehr schwer
+Rennrad Grafinger Land,22. 04.2023,Robert Graf,Tore Offermann,125 km,sehr schwer
+Rennrad leichte Rundtour nach Freising,29. 04.2023,Bernhard Eller,Yvonne Prieto,106 km,schwer
+Rennrad Feierabendrunde,03. 05.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennrad Speicherseen,07. 05.2023,Frank Rusche,Yvonne Prieto,70 km,mittel
+Rennrad Feierabendrunde,10. 05.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennrad Oberland & Osterseen,13. 05.2023,Frank Rusche,Yvonne Prieto,125 km,schwer
+Rennrad Feierabendrunde,17. 05.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennradtour Gerlospass,18. 05.2023,Andreas Müller,?,200 km,sehr schwer
+Rennrad Ins Goldene Tal,21. 05.2023,Hannelore Reisch,Hermann Moseler,125 km,schwer
+Rennrad Feierabendrunde,24. 05.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennrad Feierabendrunde,31. 05.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennrad Valepp light,04. 06.2023,Bernhard Eller,Tore Offermann,95 km,schwer
+Rennrad Feierabendrunde,07. 06.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennrad Hoher Peißenberg,10. 06.2023,Frank Rusche,Josef Vetter,165 km,sehr schwer
+Rennrad Feierabendrunde,14. 06.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennrad von München nach Passau,17. 06.2023,Bernhard Eller,Hannelore Reisch,180 km,schwer
+Rennrad Feierabendrunde,21. 06.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+Rennrad Feierabendrunde,28. 06.2023,Tore Offermann,Hannelore Reisch,60 km,mittel
+
