@@ -44,6 +44,7 @@ sommerzeitenDefault = {
     }
 }
 
+
 def loadSZ():
     szPath = "c:/temp/tpjson/sommerzeiten.json"
     global sommerzeiten
@@ -56,6 +57,8 @@ def loadSZ():
 
 # see https://stackoverflow.com/questions/4770297/convert-utc-datetime-string-to-local-datetime-with-python
 def convertToMEZOrMSZ(beginning):  # '2018-04-29T06:30:00+00:00'
+    if beginning[10:19] == "T00:00:00":
+        return beginning[0:10]  # without time, just return day
     # scribus/Python2 does not support %z
     beginning = beginning[0:19]  # '2018-04-29T06:30:00'
     d = time.strptime(beginning, "%Y-%m-%dT%H:%M:%S")
@@ -81,6 +84,13 @@ def convertToMEZOrMSZ(beginning):  # '2018-04-29T06:30:00+00:00'
     if oldDay != newDay:
         logger.warning("day rollover from %s to %s", beginning, mez)
     return mez
+
+
+def getTime(date):
+    # if convertToMEZOrMSZ returned only day, then time=""
+    if len(date) <= 16:
+        return ""
+    return date[11:16]
 
 
 class SAXHandler(xml.sax.handler.ContentHandler):
@@ -331,4 +341,3 @@ class Event(ABC):
 
     def getTitel(self):
         return self.titel
-

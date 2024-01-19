@@ -146,9 +146,15 @@ def expAbfahrtenM(tour, _):
     afs = tour.getAbfahrten()
     if len(afs) == 0:
         return ""
-    s = afs[0][1] + " Uhr; " + afs[0][2]
+    if afs[0][1] != "":
+        s = afs[0][1] + " Uhr; " + afs[0][2]
+    else:
+        s = afs[0][2]
     for afx, af in enumerate(afs[1:]):
-        s = s + "\n " + str(afx + 2) + ". Startpunkt: " + afs[afx][1] + " Uhr;" + afs[afx][2]
+        if afs[afx][1] != "":
+            s = s + "\n " + str(afx + 2) + ". Startpunkt: " + afs[afx][1] + " Uhr;" + afs[afx][2]
+        else:
+            s = s + "\n " + str(afx + 2) + ". Startpunkt: " + afs[afx][2]
     return s
 
 

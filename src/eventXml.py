@@ -105,7 +105,8 @@ class XmlEvent(event.Event):
         beginning = tl.get("Beginning")
         logger.debug("beginning %s", beginning)  # '2018-04-24T12:00:00'
         beginning = event.convertToMEZOrMSZ(beginning)  # '2018-04-24T14:00:00'
-        beginning = beginning[11:16]  # 14:00
+        # TODO wt
+        beginning = event.getTime(beginning)  # 14:00
         name = tl.get("Name")
         street = tl.get("Street")
         city = tl.get("City")
@@ -322,7 +323,7 @@ class XmlEvent(event.Event):
         day = str(datum[0:10])
         date = time.strptime(day, "%Y-%m-%d")
         weekday = event.weekdays[date.tm_wday]
-        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], datum[11:16])
+        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], event.getTime(datum))
         return res
 
     def getDatumRaw(self):
@@ -335,7 +336,8 @@ class XmlEvent(event.Event):
         day = str(datum[0:10])
         date = time.strptime(day, "%Y-%m-%d")
         weekday = event.weekdays[date.tm_wday]
-        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], datum[11:16])
+        # TODO wt
+        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], event.getTime(datum))
         return res
 
     def getEndDatumRaw(self):
@@ -433,7 +435,8 @@ class XmlEvent(event.Event):
             res += max
         if closDate is not None and closDate != "":
             closDate = event.convertToMEZOrMSZ(closDate)  # '2018-04-24T14:00:00'
-            closDate = closDate[8:10] + "." + closDate[5:7] + "." + closDate[0:4] + " " + closDate[11:16]
+            closDate = closDate[8:10] + "." + closDate[5:7] + "." + closDate[0:4] + " " + event.getTime(closDate)
+            # TODO wt
             res += ", Anmeldeschluss: " + closDate + " (" + self.getDatum()[0][4:9] + ")"
         if rurl != "":
             res += ", extUrl=" + rurl

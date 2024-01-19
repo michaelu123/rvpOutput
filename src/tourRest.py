@@ -59,7 +59,7 @@ class RestEvent(event.Event):
                     beginning = tourLoc.get("beginning")
                     logger.debug("beginning %s", beginning)  # '2018-04-24T12:00:00'
                     beginning = event.convertToMEZOrMSZ(beginning)  # '2018-04-24T14:00:00'
-                    beginning = beginning[11:16]  # 14:00
+                    beginning = event.getTime(beginning)  # 14:00
             else:
                 beginning = ""
             name = tourLoc.get("name")
@@ -235,7 +235,7 @@ class RestEvent(event.Event):
         day = str(datum[0:10])
         date = time.strptime(day, "%Y-%m-%d")
         weekday = event.weekdays[date.tm_wday]
-        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], datum[11:16], datum)
+        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], event.getTime(datum), datum)
         return res
 
     def getDatumRaw(self):
@@ -250,7 +250,7 @@ class RestEvent(event.Event):
         day = str(enddatum[0:10])
         date = time.strptime(day, "%Y-%m-%d")
         weekday = event.weekdays[date.tm_wday]
-        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], enddatum[11:16])
+        res = (weekday + ", " + day[8:10] + "." + day[5:7] + "." + day[0:4], event.getTime(enddatum))
         return res
 
     def getEndDatumRaw(self):
@@ -335,7 +335,7 @@ class RestEvent(event.Event):
             res += str(max)
         if closDate is not None and closDate != "":
             closDate = event.convertToMEZOrMSZ(closDate)
-            closDate = closDate[8:10] + "." + closDate[5:7] + "." + closDate[0:4] + " " + closDate[11:16]
+            closDate = closDate[8:10] + "." + closDate[5:7] + "." + closDate[0:4] + " " + event.getTime(closDate)
             res += ", Anmeldeschluss: " + closDate + " (" + self.getDatum()[0][4:9] + ")"
         if rurl != "":
             res += ", extUrl=" + rurl
