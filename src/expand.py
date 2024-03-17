@@ -38,6 +38,8 @@ see https://stackoverflow.com/questions/4770297/convert-utc-datetime-string-to-l
 
 
 def convertToMEZOrMSZ(s: str):  # '2018-04-29T06:30:00+00:00'
+    if s[10:19] == "T00:00:00":
+        return datetime.date.fromisoformat(s[0:10])
     dt = time.strptime(s[0:19], "%Y-%m-%dT%H:%M:%S")
     t = time.mktime(dt)
     dt1 = datetime.datetime.fromtimestamp(t)
@@ -73,6 +75,8 @@ def expEnd(event, format):
     if format is None:
         return str(dt)
     else:
+        if isinstance(dt, datetime.date):
+            format = format.replace("%H", "").replace("%M", "").replace("%S","")
         return dt.strftime(format)
 
 
@@ -81,6 +85,8 @@ def expStart(event, format):
     if format is None:
         return str(dt)
     else:
+        if isinstance(dt, datetime.date):
+            format = format.replace("%H", "").replace("%M", "").replace("%S","")
         return dt.strftime(format)
 
 
@@ -190,6 +196,42 @@ def expOrganizer(tour, _):
 def expOrganizer2(tour, _):
     return tour.getOrganizer2()
 
+def expFrontendUrl(event, _):
+    return event.getFrontendLink()
+
+def expBackendUrl(event, _):
+    return event.getBackendLink()
+
+def expBeschreibung(event, _):
+    desc = event.getBeschreibung(False)
+    return desc
+
+def expPersonen(bezeichnung, event):
+    tl = event.getPersonen()
+    if len(tl) == 0:
+        return ""
+    return bezeichnung + ": " + ", ".join(tl)
+
+def expTourLeiter(tour, _):
+    return expPersonen("Tourleiter", tour)
+
+def expBetreuer(termin, _):
+    return expPersonen("Betreuer", termin)
+
+def expAbfahrten(tour, _):
+    afs = tour.getAbfahrten()
+    if len(afs) == 0:
+        return ""
+    afl = []
+    for af in afs:
+        if af[1] == "":
+            afl.append(af[2])
+        else:
+            afl.append(af[0] + " " + af[1] + " " + af[2])
+    # print("AB0:", self.runX, "<<" + self.para.runs[self.runX].text + ">>", " ".join(["<" + run.text + ">" for run in self.para.runs]))
+    return "Ort" + ("" if len(afs) == 1 else "e") + ": " + ", ".join(afl)
+
+
 class Expand:
     def __init__(self):
         self.expFunctions = {  # keys in lower case
@@ -198,10 +240,10 @@ class Expand:
             "end": expEnd,
             "nummer": expNummer,
             "titel": self.expTitel,
-            "beschreibung": self.expBeschreibung,
+            "beschreibung": expBeschreibung,
             "kurz": expKurzBeschreibung,
-            "tourleiter": self.expTourLeiter,
-            "betreuer": self.expBetreuer,
+            "tourleiter": expTourLeiter,
+            "betreuer": expBetreuer,
             "name": expName,
             "city": expCity,
             "street": expStreet,
@@ -211,7 +253,7 @@ class Expand:
             "schwierigkeith": expSchwierigkeitH,
             "tourlänge": expTourLength,
             "tourstufe": expTourStufe,
-            "abfahrten": self.expAbfahrten,
+            "abfahrten": expAbfahrten,
             "zusatzinfo": expZusatzInfo,
             "höhenmeter": expHoehenMeter,
             "anstiege": expAnstiege,
@@ -223,6 +265,8 @@ class Expand:
             "anmeldung": expAnmeldung,
             "organizer": expOrganizer,
             "organizer2": expOrganizer2,
+            "frontendurl": expFrontendUrl,
+            "backendurl": expBackendUrl,
             "seite": lambda e, f: "{:>2}".format(self.pageNr),  # 01-99
         }
 
@@ -282,31 +326,4 @@ class Expand:
             mark = state
         return titel + " (" + mark + ")"
 
-    def expBeschreibung(self, event, _):
-        desc = event.getBeschreibung(False)
-        return desc
 
-    def expPersonen(self, bezeichnung, event):
-        tl = event.getPersonen()
-        if len(tl) == 0:
-            return ""
-        return bezeichnung + ": " + ", ".join(tl)
-
-    def expTourLeiter(self, tour, _):
-        return self.expPersonen("Tourleiter", tour)
-
-    def expBetreuer(self, termin, _):
-        return self.expPersonen("Betreuer", termin)
-
-    def expAbfahrten(self, tour, _):
-        afs = tour.getAbfahrten()
-        if len(afs) == 0:
-            return ""
-        afl = []
-        for af in afs:
-            if af[1] == "":
-                afl.append(af[2])
-            else:
-                afl.append(af[0] + " " + af[1] + " " + af[2])
-        # print("AB0:", self.runX, "<<" + self.para.runs[self.runX].text + ">>", " ".join(["<" + run.text + ">" for run in self.para.runs]))
-        return "Ort" + ("" if len(afs) == 1 else "e") + ": " + ", ".join(afl)

@@ -4,8 +4,7 @@ import time
 from myLogger import logger
 
 anstiege = ["flach", "einzelne Steigungen", "hügelig", "bergig"]
-
-
+schwierList = ["unbekannt", "sehr einfach", "einfach", "mittel", "schwer", "sehr schwer"]
 
 class RestEvent(event.Event):
     def __init__(self, eventJS, eventJSSearch, eventServer):
@@ -120,9 +119,14 @@ class RestEvent(event.Event):
     def getSchwierigkeit(self):
         if self.isTermin():
             return "-"
+        schwierigkeit = self.eventItem.get("cAdjustedTourDifficulty")
+        if schwierigkeit != "":
+            return schwierList.index(schwierigkeit)
         schwierigkeit = self.eventItem.get("cTourDifficulty")
         # apparently either 0 or between 1.0 and 5.0
         i = int(schwierigkeit + 0.5)
+        if i > 5:
+            i = 5
         return i  # ["unbekannt", "sehr einfach, "einfach", "mittel", "schwer", "sehr schwer"][i] ??
 
     """ 
