@@ -123,11 +123,15 @@ class RestEvent(event.Event):
         if schwierigkeit != "":
             return schwierList.index(schwierigkeit)
         schwierigkeit = self.eventItem.get("cTourDifficulty")
-        # apparently either 0 or between 1.0 and 5.0
-        i = int(schwierigkeit + 0.5)
-        if i > 5:
-            i = 5
-        return i  # ["unbekannt", "sehr einfach, "einfach", "mittel", "schwer", "sehr schwer"][i] ??
+        if schwierigkeit < 1.4:
+            return 1
+        if schwierigkeit < 2.4:
+            return 2
+        if schwierigkeit < 3.1:
+            return 3
+        if schwierigkeit < 4.0:
+            return 4
+        return 5  # ["unbekannt", "sehr einfach, "einfach", "mittel", "schwer", "sehr schwer"][i] ??
 
     """ 
     itemtags has categories
