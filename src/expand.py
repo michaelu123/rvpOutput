@@ -85,7 +85,7 @@ def expStart(event, format):
     if format is None:
         return str(dt)
     else:
-        if isinstance(dt, datetime.date):
+        if not isinstance(dt, datetime.datetime):
             format = format.replace("%H", "").replace("%M", "").replace("%S","")
         return dt.strftime(format)
 
