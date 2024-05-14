@@ -3,8 +3,6 @@ import os
 import re
 import sys
 import time
-
-import tourRest
 from myLogger import logger
 
 paramRE = re.compile(r"\${(\w*?)}")
@@ -75,7 +73,7 @@ def expEnd(event, format):
     if format is None:
         return str(dt)
     else:
-        if isinstance(dt, datetime.date):
+        if not isinstance(dt, datetime.datetime):
             format = format.replace("%H", "").replace("%M", "").replace("%S","")
         return dt.strftime(format)
 

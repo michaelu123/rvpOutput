@@ -125,7 +125,7 @@ class RestEvent(event.Event):
         schwierigkeit = self.eventItem.get("cTourDifficulty")
         if schwierigkeit < 1.4:
             return 1
-        if schwierigkeit < 2.4:
+        if schwierigkeit < 2.3:
             return 2
         if schwierigkeit < 3.1:
             return 3
