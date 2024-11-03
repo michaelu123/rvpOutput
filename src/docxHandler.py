@@ -895,11 +895,11 @@ class DocxHandler(expand.Expand):
                     linesOut.append(exp)
         newtext = '\n'.join(linesOut)
         if run.text != newtext:
-            if run.text == "${schwierigkeitM}":
+            if run.text.lower() == "${schwierigkeitm}":
                 self.para.add_run(text=newtext, style="WD2_STYLE")
                 move_run_before(self.runX, self.para)
                 delete_run(run)
-            elif run.text == "${schwierigkeitH}":
+            elif run.text.lower() == "${schwierigkeith}":
                 self.para.add_run(text=newtext, style="WD3_STYLE")
                 move_run_before(self.runX, self.para)
                 delete_run(run)

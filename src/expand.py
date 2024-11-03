@@ -123,6 +123,9 @@ def expSchwierigkeitM(tour, _):
 def expSchwierigkeitH(tour, _):
     return schwierigkeitHMap[tour.getSchwierigkeit()]
 
+def expSchwierigkeitS(tour, _):
+    return "*" * tour.getSchwierigkeit()
+
 def expTourLength(tour, _):
     return tour.getStrecke()
 
@@ -229,6 +232,10 @@ def expAbfahrten(tour, _):
     # print("AB0:", self.runX, "<<" + self.para.runs[self.runX].text + ">>", " ".join(["<" + run.text + ">" for run in self.para.runs]))
     return "Ort" + ("" if len(afs) == 1 else "e") + ": " + ", ".join(afl)
 
+def expTourSpeed(tour, _):
+    speed = tour.getTourSpeed()
+    return speed
+
 
 class Expand:
     def __init__(self):
@@ -249,8 +256,10 @@ class Expand:
             "schwierigkeit": expSchwierigkeit,
             "schwierigkeitm": expSchwierigkeitM,
             "schwierigkeith": expSchwierigkeitH,
+            "schwierigkeits": expSchwierigkeitS,
             "tourlänge": expTourLength,
             "tourstufe": expTourStufe,
+            "tourspeed": expTourSpeed,
             "abfahrten": expAbfahrten,
             "zusatzinfo": expZusatzInfo,
             "höhenmeter": expHoehenMeter,

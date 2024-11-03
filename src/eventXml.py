@@ -176,6 +176,15 @@ class XmlEvent(event.Event):
             return 0
         return schwierList.index(schwierigkeit)
 
+    def getTourSpeed(self):
+        if self.isTermin():
+            return "-"
+        speed1 = self.eventItem.get("CTourSpeed")
+        speed2 = self.eventItem.get("CTourSpeedKmh")
+        if speed2 == "" or speed2 == "0":
+            return speed1
+        return speed2 + " km/h"
+
     def getMerkmale(self):
         merkmale = []
         for itemTag in ["FurtherProperties", "UseableFor", "SpecialTargetGroup", "SpecialCharacteristic"]:

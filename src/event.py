@@ -244,6 +244,10 @@ class Event(ABC):
         pass
 
     @abstractmethod
+    def getTourSpeed(self):
+        pass
+
+    @abstractmethod
     def getMerkmale(self):
         pass
 

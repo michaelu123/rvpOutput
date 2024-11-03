@@ -5,6 +5,7 @@ from myLogger import logger
 
 anstiege = ["flach", "einzelne Steigungen", "hügelig", "bergig"]
 schwierList = ["unbekannt", "sehr einfach", "einfach", "mittel", "schwer", "sehr schwer"]
+speedList = ["unbekannt", "< 15 km/h", "15-18 km/h", "19-21 km/h", "22-25 km/h", "> 25 km/h"]
 
 class RestEvent(event.Event):
     def __init__(self, eventJS, eventJSSearch, eventServer):
@@ -132,6 +133,18 @@ class RestEvent(event.Event):
         if schwierigkeit < 4.0:
             return 4
         return 5  # ["unbekannt", "sehr einfach, "einfach", "mittel", "schwer", "sehr schwer"][i] ??
+
+    def getTourSpeed(self):
+        if self.isTermin():
+            return "-"
+        speed1 = self.eventItem.get("cTourSpeed")
+        if speed1 < 1 or speed1 > 5:
+            speed1 = 0
+        speed2 = self.eventItem.get("cTourSpeedKmh")
+        if speed2 == 0:
+            return speedList[speed1]
+        return str(speed2) + " km/h"
+
 
     """ 
     itemtags has categories
