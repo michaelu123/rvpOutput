@@ -171,7 +171,9 @@ class XmlEvent(event.Event):
     def getSchwierigkeit(self):
         if self.isTermin():
             return "-"
-        schwierigkeit = self.eventItem.get("CTourDifficulty")
+        schwierigkeit = self.eventItem.get("CAdjustedTourDifficulty")
+        if schwierigkeit == "":
+            schwierigkeit = self.eventItem.get("CTourDifficulty")
         if schwierigkeit == "":
             return 0
         return schwierList.index(schwierigkeit)
